@@ -7,4 +7,4 @@ tags: [innovation,intro]
 image: cuba-1.jpg
 ---
 
-Hello and welcome to my blog! This is a test!
+Hello and welcome to my blog! I have decided to present my CV, Linkedin and projects all on this website. 
