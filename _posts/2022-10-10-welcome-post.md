@@ -7,4 +7,4 @@ tags: [innovation,intro]
 image: cuba-1.jpg
 ---
 
-Hello and welcome to my blog! I have decided to present my CV, Linkedin and projects all on this website. As a student currently studying History with Innovation at the University of Bristol, I am eager to gain experience in consulting. 
+Hello and welcome! I made this website in order to make my own blog. Here, I will present my CV, Linkedin and projects. As a student currently studying History with Innovation at the University of Bristol, I am eager to gain experience in consulting. 
