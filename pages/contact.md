@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /about
-image: 
+title: Contact
+permalink: /contact
 ---
-
+My blog!
