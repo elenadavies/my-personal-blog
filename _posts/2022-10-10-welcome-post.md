@@ -12,6 +12,6 @@ Hello and welcome! I made this website to show my blog. Here, I will present my 
 I have experience with using design thinking concepts, Adobe creative suite, using programmes such as Mural/Miro to organise my work and conducting user research.
 
 For this website, I found a Jekyll template I liked and used Github and visual code to write these posts and make it look pretty :) 
-Frankly, I am very very new to coding but I have really enjoyed making this!
+Frankly, I am very very new to coding but I have really enjoyed learning about it and making this!
 
-All pics shown were created by me on Dalle- 2.
+All pics shown were created by me on Dalle- 2. 
