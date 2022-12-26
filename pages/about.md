@@ -12,5 +12,5 @@ I am the Vice President of my university's Feminist Society. I have worked hard 
 
 This year I have also been a social secretary/events coordinator for a student-led feminist magazine called, That's What She Said (TWSS). I have organsied and hosted many events just this year. For example, our big launch event which doubled as an open mic night, movie nights, pottery painting, pub quizzes and more! 
 
-I am half Bulgarian and really love being in touch with my mum's culture, I also speak a little bit of Spanish :)
-My interests include going on long walks, camping, roadtrips to the beach and going to the gym! 
+I am half Bulgarian and really love being in touch with my mum's culture. I also speak a little bit of Spanish but want to keep on practicing so I can improve my fluency.
+My interests include going on long walks, camping, roadtrips to the beach and going to the gym! :)
