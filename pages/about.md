@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-![photo of me](/assets/img/me.png) 
+![photo of me]({{ site.url }}{{ site.baseurl }}/assets/img/me.png) 
 
 Hi! I'm El,
 
