@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Posts',              url: 'posts'}
+# - {name: 'Posts',              url: 'posts'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
