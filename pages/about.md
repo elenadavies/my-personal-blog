@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-![alt text](/assets/img/me.HEIC) 
+![photo of me](/assets/img/me.png) 
 
 Hi! I'm El,
 
